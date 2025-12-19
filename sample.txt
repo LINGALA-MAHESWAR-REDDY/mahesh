@@ -9,7 +9,3 @@ This is a Fourth Line.
 This is a Fifth Line.
 This is a Sixth Line.
 
-
-Added a new line.
-Line-1,Line-2.
-
